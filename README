@@ -1,0 +1,7 @@
+Patcher for Samsung Galaxy Light
+
+To patch custom ROM source put the script in the root of the custom ROM
+
+To fetch patches run
+
+./gardalte.sh 
